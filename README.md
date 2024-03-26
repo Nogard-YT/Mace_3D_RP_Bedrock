@@ -1,5 +1,5 @@
 # Mace 3D RP for Bedrock
-This resource pack enhances the Mace by giving it a 3D model! The Mace is a new weapon added to Minecraft Bedrock in Beta & Preview - 1.20.80.22 Update. For consistency reasons, Mojang decided to make the Mace a 2D item. However, many people wish it had a 3D model instead. Which is the reason, why I created this resource pack. And I made it for both Minecraft universes - Bedrock and Java!
+This resource pack enhances the Mace by giving it a 3D model! The Mace is a new weapon added to Minecraft Bedrock in Beta & Preview - 1.20.80.22 Update. For consistency reasons, Mojang decided to make the Mace a 2D item. However, many people wish it had a 3D model instead. Which is the reason, why I created this resource pack. And I made it for both Minecraft universes - Bedrock and [Java](https://github.com/Nogard-YT/Mace_3D_RP_Java)!
 
 Creator: **Nogard** ([Twitter](https://twitter.com/Nogard_YT), 
 [YouTube](https://www.youtube.com/channel/UCPjuDppuSBB2fRiTl9UOQ5Q?sub_confirmation=1), 

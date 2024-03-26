@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mace 3D RP",
+    "description": "Made by Nogard,\nTwitter: @Nogard_YT",
+    "uuid": "5dfe9980-9cb6-4a57-840c-7e6658f5cfe4",
+    "min_engine_version": [1, 20, 80],
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Made by Nogard,\nTwitter: @Nogard_YT",
+      "uuid": "ef96561a-9c90-49ab-b2d1-11a771c07e2a",
+      "type": "resources",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+		"authors": [ "Nogard" ],
+		"url": "https://twitter.com/Nogard_YT",
+		"license": "All Rights Reserved"
+	}
+}

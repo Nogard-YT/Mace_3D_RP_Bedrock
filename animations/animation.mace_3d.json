@@ -1,0 +1,78 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mace_3d.thirdperson_main_hand": {
+			"loop": true,
+			"bones": {
+				"mace_3d": {
+					"rotation": [90, 0, 0],
+					"position": [0.5, 13.5, -3]
+				}
+			}
+		},
+		"animation.mace_3d.thirdperson_off_hand": {
+			"loop": true,
+			"bones": {
+				"mace_3d": {
+					"rotation": [90, 0, 0],
+					"position": [0.5, 13.5, -3]
+				}
+			}
+		},
+		"animation.mace_3d.head": {
+			"loop": true,
+			"bones": {
+				"x_axis": {
+					"scale": 0.625
+				},
+				"mace_3d": {
+					"position": [0, 19.9, 0]
+				}
+			}
+		},
+		"animation.mace_3d.firstperson_main_hand": {
+			"loop": true,
+			"bones": {
+				"mace_3d": {
+					"rotation": [90, 60, -40],
+					"position": [4, 10, 4],
+					"scale": 1.5
+				},
+				"x_axis": {
+					"rotation": [-15, 0, 0],
+					"position": [-1.5, 1, 0],
+					"scale": 0.7
+				},
+				"y_axis": {
+					"rotation": [0, 0, 0]
+				},
+				"z_axis": {
+					"rotation": [0, 0, 0],
+					"position": [0, 0, 4]
+				}
+			}
+		},
+		"animation.mace_3d.firstperson_off_hand": {
+			"loop": true,
+			"bones": {
+				"mace_3d": {
+					"rotation": [90, 60, -40],
+					"position": [4, 10, 4],
+					"scale": 1.5
+				},
+				"x_axis": {
+					"rotation": [-15, 0, 0],
+					"position": [15, 1, 0],
+					"scale": 0.7
+				},
+				"y_axis": {
+					"rotation": [0, 0, 0]
+				},
+				"z_axis": {
+					"rotation": [0, 0, 0],
+					"position": [10, 0, 4]
+				}
+			}
+		}
+	}
+}

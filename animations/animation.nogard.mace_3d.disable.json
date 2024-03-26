@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.nogard.mace_3d.disable": {
+      "loop": true,
+      "override_previous_animation": true,
+      "bones": { "mace_3d": { "scale": 0 } }
+    }
+  }
+}

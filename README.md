@@ -35,7 +35,7 @@ Email: nogmcpe@gmail.com
 Discord: Nogard#9634 (nogcube)  
 Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 
-## Intallation
+## Installation
 1. Download the resource pack.
 2. Make sure that the downloaded file has a .mcpack extension.
 3. Open the downloaded file with Minecraft.

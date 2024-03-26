@@ -42,6 +42,8 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 5. Enable the Mace 3D RP in the world or global settings.
 6. Enjoy!
 
-## Download
+## Download (Minecraft Bedrock)
 Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0  
 Mace 3D RP (player animations): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0_player_animations
+
+Minecraft Java version: https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0

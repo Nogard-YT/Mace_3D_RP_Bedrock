@@ -1,7 +1,10 @@
 # Mace 3D RP
 This resource pack enhances the Mace by giving it a 3D model! The Mace is a new weapon added to Minecraft Bedrock in Beta & Preview - 1.20.80.22 Update. For consistency reasons, Mojang decided to make the Mace a 2D item. However, many people wish it had a 3D model instead. Which is the reason, why I created this resource pack. And I made it for both Minecraft universes - Bedrock and Java!
 
-Creator: Nogard (Twitter, YouTube, Github, Facebook) 
+Creator: **Nogard** ([Twitter](https://twitter.com/Nogard_YT), 
+[YouTube](https://www.youtube.com/channel/UCPjuDppuSBB2fRiTl9UOQ5Q?sub_confirmation=1), 
+[Reddit](https://www.reddit.com/user/Nogard_YT/), 
+[Facebook](https://fb.me/Nogard.YT))  
 
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Bedrock/images/key_art_mcpedl.png)
 
@@ -12,7 +15,6 @@ Mace is a truly high-risk, high-reward weapon. It can deal crazy amounts of dama
 
 Mace was introduced to [Minecraft Bedrock in Beta & Preview - 1.20.80.22](https://www.minecraft.net/en-us/article/minecraft-preview-1-20-80-22), and in [Snapshot 24W11A](https://www.minecraft.net/en-us/article/minecraft-snapshot-24w11a) to Minecraft Java, both released on March 14th, 2024. Therefore, it's essential to be on either of these versions or higher to be able to use this resource pack. Additionally, don't forget to turn on experiments for your world. In Minecraft Bedrock, these experiments, which enable the new features introduced in Minecraft Live 2023, are labeled as "Update 1.21". In Minecraft Java you can enable them under "More" tab when creating a world. Then under "Experiments" button, where you can toggle "Update 1.21" on. 
 
-Hitting Ender Dragon with the Mace and elytra, Ender dragon and mace having a 3D outline in the image.
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Bedrock/images/camera_view.png)
 
 ## Why is it not 3D by default?

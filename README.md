@@ -25,7 +25,7 @@ There undoubtedly are some technical constraints, which might have led Mojang to
 The Bedrock version of the resource pack is available in two types. The first option, in order, doesn't edit player.json or any other vanilla files, making it compatible with any other addon. Meanwhile, the second version (player animations) does edit these files. Specifically, the second version overrides player.entity.json and other vanilla files to make the 3D Mace attack/swipe animation look like an actual weapon. If you intend to use this pack alongside other add-ons, it's advisable to download the first version (recommended). 
 
 ## License Terms
-You're allowed to record videos and take screenshots of this work. You may share this work with others, but only with the original download link. You're allowed to use this work in your Minecraft worlds and servers without any limitations. However, redistribution without author's consent in applications, websites, and other media, s well as earning money from it, will be punished by law. 
+You're allowed to record videos and take screenshots of this work. You may share this work with others, but only with the original download link. You're allowed to use this work in your Minecraft worlds and servers without any limitations. However, redistribution without author's consent in applications, websites, and other media, as well as earning money from it, will be punished by law. 
 
 **Nogard**
 

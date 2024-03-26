@@ -1,5 +1,6 @@
+
 # Mace 3D RP for Bedrock
-This resource pack enhances the Mace by giving it a 3D model! The Mace is a new weapon added to Minecraft Bedrock in Beta & Preview - 1.20.80.22 Update. For consistency reasons, Mojang decided to make the Mace a 2D item. However, many people wish it had a 3D model instead. Which is the reason, why I created this resource pack. And I made it for both Minecraft universes - Bedrock and Java!
+This resource pack enhances the Mace by giving it a 3D model! The Mace is a new weapon added to Minecraft Bedrock in Beta & Preview - 1.20.80.22 Update. For consistency reasons, Mojang decided to make the Mace a 2D item. However, many people wish it had a 3D model instead. Which is the reason, why I created this resource pack. And I made it for both Minecraft universes - Bedrock and [Java](https://github.com/Nogard-YT/Mace_3D_RP_Java)!
 
 Creator: **Nogard** ([Twitter](https://twitter.com/Nogard_YT), 
 [YouTube](https://www.youtube.com/channel/UCPjuDppuSBB2fRiTl9UOQ5Q?sub_confirmation=1), 
@@ -22,7 +23,7 @@ There undoubtedly are some technical constraints, which might have led Mojang to
 
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Bedrock/images/2d_to_3d.png)
 
-The Bedrock version of the resource pack is available in two types. The first option, in order, doesn't edit player.json or any other vanilla files, making it compatible with any other addon. Meanwhile, the second version does edit these files. Specifically, the second version overrides player.entity.json and other vanilla files to make the 3D Mace attack/swipe animation look like an actual weapon. If you intend to use this pack alongside other add-ons, it's advisable to download the first version (recommended). 
+The Bedrock version of the resource pack is available in two types. The first option, in order, doesn't edit player.json or any other vanilla files, making it compatible with any other addon. Meanwhile, the second version (player animations) does edit these files. Specifically, the second version overrides player.entity.json and other vanilla files to make the 3D Mace attack/swipe animation look like an actual weapon. If you intend to use this pack alongside other add-ons, it's advisable to download the first version (recommended). 
 
 ## License Terms
 You're allowed to record videos and take screenshots of this work. You may share this work with others, but only with the original download link. You're allowed to use this work in your Minecraft worlds and servers without any limitations. However, redistribution without author's consent in applications, websites, and other media, as well as earning money from it, will be punished by law. 
@@ -42,5 +43,8 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 5. Enable the Mace 3D RP in the world or global settings.
 6. Enjoy!
 
-## Download
-Mace 3D RP: https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0
+## Download (Minecraft Bedrock)
+Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0  
+Mace 3D RP (player animations): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0_player_animations
+
+Minecraft Java version: https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0

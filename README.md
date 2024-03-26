@@ -22,7 +22,7 @@ There undoubtedly are some technical constraints, which might have led Mojang to
 
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Bedrock/images/2d_to_3d.png)
 
-The Bedrock version of the resource pack is available in two types. The first option, in order, doesn't edit player.json or any other vanilla files, making it compatible with any other addon. Meanwhile, the second version does edit these files. Specifically, the second version overrides player.entity.json and other vanilla files to make the 3D Mace attack/swipe animation look like an actual weapon. If you intend to use this pack alongside other add-ons, it's advisable to download the first version (recommended). 
+The Bedrock version of the resource pack is available in two types. The first option, in order, doesn't edit player.json or any other vanilla files, making it compatible with any other addon. Meanwhile, the second version (player animations) does edit these files. Specifically, the second version overrides player.entity.json and other vanilla files to make the 3D Mace attack/swipe animation look like an actual weapon. If you intend to use this pack alongside other add-ons, it's advisable to download the first version (recommended). 
 
 ## License Terms
 You're allowed to record videos and take screenshots of this work. You may share this work with others, but only with the original download link. You're allowed to use this work in your Minecraft worlds and servers without any limitations. However, redistribution without author's consent in applications, websites, and other media, s well as earning money from it, will be punished by law. 
@@ -43,4 +43,6 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 6. Enjoy!
 
 ## Download
-Mace 3D RP: https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0
+Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0
+Mace 3D RP (player animations): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0_player_animations
+

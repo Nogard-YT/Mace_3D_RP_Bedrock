@@ -43,6 +43,5 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 6. Enjoy!
 
 ## Download
-Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0
+Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0  
 Mace 3D RP (player animations): https://github.com/Nogard-YT/Mace_3D_RP_Bedrock/releases/tag/v1.0.0_player_animations
-

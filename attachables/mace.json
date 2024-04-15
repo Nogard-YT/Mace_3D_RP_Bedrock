@@ -5,7 +5,7 @@
       "identifier": "minecraft:mace",
       "materials": {
         "default": "entity_alphatest",
-        "enchanted": "entity_alphatest"
+        "enchanted": "entity_glint"
       },
       "textures": {
         "default": "textures/items/mace_3d",

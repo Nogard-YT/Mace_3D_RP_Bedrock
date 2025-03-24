@@ -3,16 +3,16 @@
   "header": {
     "name": "Mace 3D RP",
     "description": "Made by Nogard,\nTwitter: @Nogard_YT",
-    "uuid": "f2037484-b911-40b9-95a7-6622fca2e235",
+    "uuid": "180309aa-6ac4-464c-a6d6-fb6f43c487fc",
     "min_engine_version": [1, 20, 80],
-    "version": [1, 0, 0]
+    "version": [1, 0, 1]
   },
   "modules": [
     {
       "description": "Made by Nogard,\nTwitter: @Nogard_YT",
-      "uuid": "094bd2f9-ac57-4650-ae4e-718e019cca66",
+      "uuid": "6c0e40bc-279b-40ec-9101-7baa53e9a624",
       "type": "resources",
-      "version": [1, 0, 0]
+      "version": [1, 0, 1]
     }
   ],
   "metadata": {

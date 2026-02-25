@@ -31,7 +31,7 @@ You're allowed to record videos and take screenshots of this work. You may share
 
 Contacts:  
 Email: nogmcpe@gmail.com  
-Discord: Nogard#9634 (nogcube)  
+Discord: Nogard#9634 (nogard_yt)  
 Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 
 ## Installation
